@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marshallcroes
 - 👀 I’m interested in many things
-- 📫 How to reach me marsahll@croes.cc
+- 📫 How to reach me marshall@croes.cc
 
 <!---
 marshallcroes/marshallcroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
